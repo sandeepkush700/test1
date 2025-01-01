@@ -11,6 +11,7 @@ export class BaseUrlService {
   }
   hello()
   {
-    console.log("from git")
+    console.log("from git");
+    console.log("from git");
   }
 }
