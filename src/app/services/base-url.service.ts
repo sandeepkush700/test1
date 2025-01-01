@@ -9,4 +9,10 @@ export class BaseUrlService {
   getall()
   {
   }
+
+  hello()
+  {
+    console.log("this from vs code")
+  }
+
 }
